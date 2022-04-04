@@ -1,0 +1,33 @@
+.container{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+    color: rgb(145,170,209);
+}
+
+.vibe{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Noto Serif KR', serif;
+}
+
+.header{
+    text-align: center;
+    font-family: 'Noto Serif KR', serif;
+}
+.content{
+    font-weight:1000px;
+    font-size: large;
+    /*text-align: center;*/
+    font-family: 'Noto Serif KR', serif;
+}
+
+
+
+/* underline of link  
+a{
+    text-decoration: none;
+}
+*/
