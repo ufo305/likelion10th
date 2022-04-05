@@ -21,6 +21,12 @@ body{
     text-align: center;
     font-size: large;
     font-family: 'Noto Serif KR', serif;
+
+    width: 30%;
+    margin-left:auto;
+    margin-right:auto;
+
+    
 }
 
 .soundcloud{
