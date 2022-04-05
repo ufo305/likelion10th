@@ -7,7 +7,7 @@
     color: rgb(145,170,209);
 }
 
-.vibe{
+.wave{
     text-align: center;
     font-size: xx-large;
     font-family: 'Noto Serif KR', serif;
@@ -15,19 +15,47 @@
 
 .header{
     text-align: center;
+    font-size: large;
     font-family: 'Noto Serif KR', serif;
 }
+
+.soundcloud{
+    border : 0px none black;
+    padding: 0px;
+    width: 50%;
+    height: 1000px;
+    box-shadow: 0px 0px 3000px 50px rgba(252, 161, 25, 0.8);
+            /*  x   y   blur   spread color*/
+    margin-left:auto;
+    margin-right:auto;
+}
+
 .content{
     font-weight:1000px;
     font-size: large;
-    /*text-align: center;*/
+    border: 10px none rgb(235, 145, 28);
+    width: 50%;
+    /*box-shadow: 0 0px 10px 0 rgba(252, 161, 25, 0.5);*/
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.serif{
     font-family: 'Noto Serif KR', serif;
 }
 
+.sarserif{
+    font-family: Verdana, Geneva, Arial, sans-serif;
+}
 
 
-/* underline of link  
+footer{
+    text-align: center;
+    background-color: rgb(145,170,209);
+    color : #4F5AC1;
+}
+
+
 a{
     text-decoration: none;
 }
-*/
